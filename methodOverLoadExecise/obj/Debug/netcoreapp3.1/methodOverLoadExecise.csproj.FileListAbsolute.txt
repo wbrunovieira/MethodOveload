@@ -1,0 +1,12 @@
+/Users/walterbrunopradovieira/repos/methodOverLoadExecise/methodOverLoadExecise/obj/Debug/netcoreapp3.1/methodOverLoadExecise.csprojAssemblyReference.cache
+/Users/walterbrunopradovieira/repos/methodOverLoadExecise/methodOverLoadExecise/obj/Debug/netcoreapp3.1/methodOverLoadExecise.AssemblyInfoInputs.cache
+/Users/walterbrunopradovieira/repos/methodOverLoadExecise/methodOverLoadExecise/obj/Debug/netcoreapp3.1/methodOverLoadExecise.AssemblyInfo.cs
+/Users/walterbrunopradovieira/repos/methodOverLoadExecise/methodOverLoadExecise/obj/Debug/netcoreapp3.1/methodOverLoadExecise.csproj.CoreCompileInputs.cache
+/Users/walterbrunopradovieira/repos/methodOverLoadExecise/methodOverLoadExecise/bin/Debug/netcoreapp3.1/methodOverLoadExecise.deps.json
+/Users/walterbrunopradovieira/repos/methodOverLoadExecise/methodOverLoadExecise/bin/Debug/netcoreapp3.1/methodOverLoadExecise.runtimeconfig.json
+/Users/walterbrunopradovieira/repos/methodOverLoadExecise/methodOverLoadExecise/bin/Debug/netcoreapp3.1/methodOverLoadExecise.runtimeconfig.dev.json
+/Users/walterbrunopradovieira/repos/methodOverLoadExecise/methodOverLoadExecise/bin/Debug/netcoreapp3.1/methodOverLoadExecise.dll
+/Users/walterbrunopradovieira/repos/methodOverLoadExecise/methodOverLoadExecise/bin/Debug/netcoreapp3.1/methodOverLoadExecise.pdb
+/Users/walterbrunopradovieira/repos/methodOverLoadExecise/methodOverLoadExecise/obj/Debug/netcoreapp3.1/methodOverLoadExecise.dll
+/Users/walterbrunopradovieira/repos/methodOverLoadExecise/methodOverLoadExecise/obj/Debug/netcoreapp3.1/methodOverLoadExecise.pdb
+/Users/walterbrunopradovieira/repos/methodOverLoadExecise/methodOverLoadExecise/obj/Debug/netcoreapp3.1/methodOverLoadExecise.genruntimeconfig.cache
